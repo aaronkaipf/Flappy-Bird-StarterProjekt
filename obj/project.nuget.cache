@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QyJaITV5NUo=",
+  "success": true,
+  "projectFilePath": "/Users/aaronkaipf/Documents/ExterneSD/AK-DL/Kunden/Coding Giants/C#/Kurs Samstag/FlappyBird/FlappyBird.csproj",
+  "expectedPackageFiles": [
+    "/Users/aaronkaipf/.nuget/packages/raylib-cs/7.0.1/raylib-cs.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
